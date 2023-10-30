@@ -1,0 +1,7 @@
+{
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
+  "description" : "TEST:PV3",
+  "latching" : false,
+  "annunciating" : false
+}

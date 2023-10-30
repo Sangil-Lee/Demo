@@ -1,0 +1,8 @@
+{
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
+  "description" : "TEST:PV1",
+  "latching" : false,
+  "annunciating" : false,
+  "filter" : "TEST:PV2 > 10"
+}
