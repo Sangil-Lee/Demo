@@ -45,8 +45,12 @@
     <pv name="TEST:PV7">
       <description>TEST:PV7</description>
       <enabled>true</enabled>
-      <latching>false</latching>
-      <annunciating>false</annunciating>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+      <guidance>
+        <title>Proc1</title>
+        <details>Test:PV7 Action</details>
+      </guidance>
     </pv>
   </component>
 </config>

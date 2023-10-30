@@ -1,7 +1,9 @@
 {
-  "user" : "ctrluser",
-  "host" : "localhost.localdomain",
+  "user" : "JEM",
+  "host" : "DESKTOP-OK7SAA6",
   "description" : "TEST:PV7",
-  "latching" : false,
-  "annunciating" : false
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "Test:PV7 Action"
+  } ]
 }
