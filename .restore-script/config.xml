@@ -55,10 +55,6 @@
         <title>Proc2</title>
         <details>Test:PV7 Action2</details>
       </guidance>
-      <guidance>
-        <title>Proc3</title>
-        <details>Test:PV7 Action3</details>
-      </guidance>
       <command>
         <title>Comm1</title>
         <details>Test:PV7 Command1</details>
