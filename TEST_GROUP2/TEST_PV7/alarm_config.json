@@ -8,5 +8,9 @@
   }, {
     "title" : "Proc2",
     "details" : "Test:PV7 Action2"
+  } ],
+  "commands" : [ {
+    "title" : "Comm1",
+    "details" : "Test:PV7 Command1"
   } ]
 }
