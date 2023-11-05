@@ -5,5 +5,8 @@
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "Test:PV7 Action"
+  }, {
+    "title" : "Proc2",
+    "details" : "Test:PV7 Action2"
   } ]
 }
