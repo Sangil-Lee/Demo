@@ -1,16 +1,9 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
   "description" : "TEST:PV7",
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "Test:PV7 Action"
-  }, {
-    "title" : "Proc2",
-    "details" : "Test:PV7 Action2"
-  } ],
-  "commands" : [ {
-    "title" : "Comm1",
-    "details" : "Test:PV7 Command1"
   } ]
 }
